@@ -1,8 +1,8 @@
 Part 1: I like potatoes.
 
 Task 1: 
-// Under this line, describe what the command 'git fetch' does
+The "git fetch" command tells the remote server to fetch the new information from the remote server before it will know that we made a change.
 
 Task 2:
-// Under this line, describe the difference between Git and GitHub
+"git" is a version control system that keeps tracks of your source code history and allows you to manage it. Github is a platform that manages these git repositories, allowing you to showcase your projects as if it is a portfolio or collaborate with other programmers on projects.
 
